@@ -1,5 +1,5 @@
-# Newgrounds.io Save Cloud for Unity 2019
-Newgrounds Cloud add-on for the deprecated Josh Tuttle's Newgrounds for Unity. Compatible with Unity 2019
+# Newgrounds.io Cloud save for Unity 2019
+Newgrounds Cloud save add-on for the deprecated Josh Tuttle's Newgrounds for Unity. Compatible with Unity 2019
 
 ## Why did you do this ?
 My game [Pad of Time](https://www.padoftime.com "Pad of Time") was finished with Unity 2019, and unfortunately Newgrounds.io doesn't support it for Save Cloud.
